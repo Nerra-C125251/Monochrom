@@ -1,0 +1,29 @@
+.droite{
+    text-align: right;
+}
+.bg-image{
+    background-size: cover;
+     height:500px;
+    background-image:url(/asset/bg-image-hero.webp) ;
+    color:white;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.center {
+    text-align: center;
+}
+.gauche{
+    text-align: left;
+}
+.bg-image2{
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    background-image: url(/asset/bg-image-2.webp);
+}
+.bg-gris{
+    background-color: #353434;
+    color: white;
+}
