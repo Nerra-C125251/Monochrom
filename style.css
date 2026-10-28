@@ -1,3 +1,6 @@
+.text-white{
+    color: white;
+}
 .droite{
     text-align: right;
 }
@@ -6,6 +9,10 @@
      height:500px;
     background-image:url(/asset/bg-image-hero.webp) ;
     background-position: center;
+}
+.btn-blanc{
+    background-color: white;border-radius: 10px 10px;
+    padding: 12px 20px;
 }
 .center {
     text-align: center;
@@ -31,9 +38,5 @@
     margin-right: 30px
 
 }
-.btn-blanc{
-    color: black;
-    background-color: white;
-    border: 1px solid;
-    border-radius: 10px 10px;
-}
+
+
