@@ -4,15 +4,23 @@
 .droite{
     text-align: right;
 }
-.bg-image{
+.bg-hero{
     background-size: cover;
      height:500px;
     background-image:url(asset/bg-image-hero.webp) ;
     background-position: center;
 }
 .btn-blanc{
-    background-color: white;border-radius: 10px 10px;
+    background-color: white;
+    color: black;
+    border-radius: 10px 10px;
     padding: 12px 20px;
+}
+.btn-black{
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px;
+    padding: 12px 20px ;
 }
 .center {
     text-align: center;
@@ -20,7 +28,7 @@
 .gauche{
     text-align: left;
 }
-.bg-image2{
+.bg-partenaire{
     background-size: cover;
     height: 500px;
     background-position: center;
