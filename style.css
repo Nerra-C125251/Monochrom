@@ -7,7 +7,7 @@
 .bg-image{
     background-size: cover;
      height:500px;
-    background-image:url(/asset/bg-image-hero.webp) ;
+    background-image:url(asset/bg-image-hero.webp) ;
     background-position: center;
 }
 .btn-blanc{
@@ -25,7 +25,7 @@
     height: 500px;
     background-position: center;
     color: white;
-    background-image: url(/asset/bg-image-2.webp);
+    background-image: url(asset/bg-image-2.webp);
 }
 .bg-gris{
     background-color: #353434;
